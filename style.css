@@ -1,0 +1,229 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    background-color: #ffffff;
+}
+
+/* navbar start */
+.navbar{
+    background-color: #000000;
+}
+
+.nav-item{
+    padding: 0% 5px;
+}
+
+.nav-item:hover{
+    background-color: #fac031;
+    transform: scale(1.1);
+    transition: .8s;
+    color: white;
+    padding: 0% 5px;
+}
+
+.icons i{
+    padding: 0rem 10px;
+}
+/* navbar ends */
+
+/* home start */
+.home-contents h1 {
+    font-size: 60px;
+}
+
+.home-contents h1 span{
+    margin-left: 15px;
+    color: #fac031;
+    font-family: mv boli;
+    line-height: 22px;
+    font-size: 65px;
+}
+
+.home-contents p{
+    text-align: justify;
+}
+
+.home-contents{
+    text-align: justify;
+    line-height: 22px;
+}
+
+.home-contents .btn {
+    background-color: #fac031;
+    cursor: pointer;
+}
+
+.home-contents .btn a{
+    color: #fff;
+    text-decoration: none;
+}
+
+.home-contents .btn:hover{
+    background-color: black;
+    transform: translateY(8px);
+}
+
+.home-images img{
+    position: relative;
+    top: 60px;
+}
+
+/* home ends */
+
+
+
+
+/* about start */
+.about{
+    background-color: #ffffff;
+    padding: 80px 10px;
+}
+
+.about .about-text{
+    text-align: justify;
+}
+
+.about-text h1 span{
+    color: #fac031;
+    margin-right: 15px;
+    font-family: mv boli;
+}
+
+.about-text h1{
+    font-size: 55px;
+    position: relative;
+}
+
+.about-text h3{
+    font-size: 30px;
+}
+
+.about-text p{
+    line-height: 22px;
+    margin-top: 2rem;
+}
+
+.about-text .btn{
+    background-color: #fac031;
+    margin-top: 30px;
+
+}
+
+.about-text .btn a{
+    text-decoration: none;
+    color: white;
+
+}
+
+.about-text .btn:hover{
+    background-color: black;
+    transform: translateY(8px);
+
+}
+/* about ends */
+
+
+
+
+/* Menu start */
+#Menu h2 span{
+    color: #fac031;
+    font-family: mv boli;
+    line-height: 22px;
+    font-size: 50px;
+}
+
+#Menu h2{
+    line-height: 22px;
+    font-size: 50px;
+}
+
+.box img:hover{
+    transform: scale(1.1);
+    transition: .4s;
+    cursor: pointer;
+}
+/* Menu ends */
+
+
+
+
+/* Gallary start */
+#Gallary h2 span{
+    color: #fac031;
+    font-family: mv boli;
+    font-size: 50px;
+    line-height: 22px;
+}
+/* Gallary ends */
+
+
+
+
+/* Review start */
+.customar img:hover{
+    transform: scale(1.1);
+    transition: .3s;
+    cursor: pointer;
+}
+/* Review ends */
+
+
+
+
+/* our team start */
+.feedback h2 span{
+    font-family: mv boli;
+    color: #fac031;
+    font-size: 50px;
+    line-height: 22px;
+}
+
+.feedback h2{
+    font-size: 50px;
+}
+
+.feedback img:hover{
+    transform: scale(1.1);
+    transition: .3s;
+    cursor: pointer;
+}
+
+/* our team ends */
+
+
+
+/* form start */
+.form-group .btn a{
+    color: #fff;
+    text-decoration: none;
+}
+/* form ends */
+
+
+
+/* footer start */
+.links{
+    padding: 4px 4px;
+    list-style: none;
+
+}
+
+li a{
+    text-decoration: none;
+    color: white;
+}
+
+li a:hover{
+    color: white;
+}
+
+.icons{
+    padding: 4px 4px;
+    color: white;
+    font-size: 20px;
+}
+
+/* footer ends */
